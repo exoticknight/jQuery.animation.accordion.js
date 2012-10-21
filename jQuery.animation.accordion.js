@@ -11,7 +11,7 @@ if(jQuery)(function($) {
 			//check the parameters
 			if(!self.find(settings.select)) {
 				return false;
-			}
+			}sadasdasdadsshitshitshitshitshitshitshithsti
 			var total_space, tab_space, animation_space;
 			var tabs = self.find(settings.select);
 			if(settings.direction === 'top' || settings.direction === 'bottom') {
